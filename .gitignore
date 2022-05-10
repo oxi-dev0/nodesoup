@@ -11,7 +11,6 @@ Thumbs.db
 *.so
 *.dylib
 *.a
-*.lib
 *.out
 *.dSYM/
 __pycache__/
@@ -67,7 +66,6 @@ bin/src/nodesoup.dir/Debug/nodesoup.lib.recipe
 bin/src/nodesoup.dir/Debug/nodesoup-d.lib.recipe
 bin/src/INSTALL.vcxproj.filters
 bin/src/INSTALL.vcxproj
-bin/src/Debug/nodesoup-d.pdb
 bin/src/CMakeFiles/generate.stamp.depend
 bin/src/CMakeFiles/generate.stamp
 bin/src/cmake_install.cmake
